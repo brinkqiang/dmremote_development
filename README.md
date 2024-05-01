@@ -28,6 +28,9 @@ Copyright (c) 2013-2018 brinkqiang (brink.qiang@gmail.com)
 ### 安装docker插件
 ![Mobile Preview](/images/docker.png)
 
+### 安装docker-desktop
+![Mobile Preview](/images/docker-desktop.png)
+
 ### 安装Remote Development插件，主要用到Dev Containers、Remote-SSH插件。
 
 ### 如果是自己新建的工程 copy .devcontainer目录文件 到你的新工程目录
