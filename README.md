@@ -11,10 +11,9 @@
 ### 安装Remote Development插件，主要用到Dev Containers、Remote-SSH插件。
 
 ### copy .devcontainer目录文件 到你的新工程
-
+### 例子是C++项目， 有其他需求 到模板工程查看 https://github.com/devcontainers/templates
 ![Mobile Preview](/images/remote-development.png)
 
-## 第二步：连接远端开发环境
+## 第二步：vscode打开目录， 提示从容器中重新打开
+![Mobile Preview](/images/open-with-docker.png)
 
-## 第三步：添加container配置
-ctrl+shift+p唤出命令行，选择Add Dev Container Configuration Files...
