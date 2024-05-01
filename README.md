@@ -10,6 +10,8 @@
 
 ### 安装Remote Development插件，主要用到Dev Containers、Remote-SSH插件。
 
+### copy .devcontainer目录文件 到你的新工程
+
 ![Mobile Preview](/images/remote-development.png)
 
 ## 第二步：连接远端开发环境
