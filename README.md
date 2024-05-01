@@ -1,5 +1,25 @@
 # dmremote_development
 
+Copyright (c) 2013-2018 brinkqiang (brink.qiang@gmail.com)
+
+[![dmremote_development](https://img.shields.io/badge/brinkqiang-dmremote_development-blue.svg?style=flat-square)](https://github.com/brinkqiang/dmremote_development)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/brinkqiang/dmremote_development/blob/master/LICENSE)
+[![blog](https://img.shields.io/badge/Author-Blog-7AD6FD.svg)](https://brinkqiang.github.io/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png)](https://github.com/brinkqiang)
+[![GitHub stars](https://img.shields.io/github/stars/brinkqiang/dmremote_development.svg?label=Stars)](https://github.com/brinkqiang/dmremote_development) 
+[![GitHub forks](https://img.shields.io/github/forks/brinkqiang/dmremote_development.svg?label=Fork)](https://github.com/brinkqiang/dmremote_development)
+
+## Build status
+| [Linux][lin-link] | [Mac][mac-link] | [Windows][win-link] |
+| :---------------: | :----------------: | :-----------------: |
+| ![lin-badge]      | ![mac-badge]       | ![win-badge]        |
+
+[lin-badge]: https://github.com/brinkqiang/dmremote_development/workflows/linux/badge.svg "linux build status"
+[lin-link]:  https://github.com/brinkqiang/dmremote_development/actions/workflows/linux.yml "linux build status"
+[mac-badge]: https://github.com/brinkqiang/dmremote_development/workflows/mac/badge.svg "mac build status"
+[mac-link]:  https://github.com/brinkqiang/dmremote_development/actions/workflows/mac.yml "mac build status"
+[win-badge]: https://github.com/brinkqiang/dmremote_development/workflows/win/badge.svg "win build status"
+[win-link]:  https://github.com/brinkqiang/dmremote_development/actions/workflows/win.yml "win build status"
 
 # 环境设置
 
