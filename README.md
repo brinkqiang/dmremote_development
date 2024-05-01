@@ -17,3 +17,11 @@
 ## 第二步：vscode打开目录， 提示从容器中重新打开
 ![Mobile Preview](/images/open-with-docker.png)
 
+## 第三步: 安装C++插件
+![Mobile Preview](/images/c++.png)
+
+## 第四步：编译项目
+./build.sh
+
+## 第五步：调试项目
+在test\dmremote_developmenttest\dmremote_developmenttest.cpp中设置断点，点击调试按钮，即可调试。
