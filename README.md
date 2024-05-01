@@ -22,6 +22,9 @@
 
 ## 第四步：编译项目
 ./build.sh
+![Mobile Preview](/images/build.png)
 
 ## 第五步：调试项目
 在test\dmremote_developmenttest\dmremote_developmenttest.cpp中设置断点，点击调试按钮，即可调试。
+
+![Mobile Preview](/images/debug.png)
