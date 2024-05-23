@@ -8,16 +8,6 @@ INCLUDE(cmake/ModuleCompileOptions.cmake)
 ModuleSetCompileOptions()
 ModuleSetWinCompilerFlags()
 
-SET(DMREMOTE_DEVELOPMENT_VERSION_MAJOR "1")
-SET(DMREMOTE_DEVELOPMENT_VERSION_MINOR "0")
-SET(DMREMOTE_DEVELOPMENT_VERSION_PATCH "1")
-SET(DMREMOTE_DEVELOPMENT_VERSION "${DMREMOTE_DEVELOPMENT_VERSION_MAJOR}.${DMREMOTE_DEVELOPMENT_VERSION_MINOR}.${DMREMOTE_DEVELOPMENT_VERSION_PATCH}")
-
-MESSAGE(STATUS "VERSION: ${DMREMOTE_DEVELOPMENT_VERSION}")
-
-OPTION(USE_DMREMOTE_DEVELOPMENT "use dmremote_development" OFF)
-CONFIGURE_FILE(${CMAKE_CURRENT_SOURCE_DIR}/include/dmremote_development_config.h.in ${CMAKE_CURRENT_SOURCE_DIR}/include/dmremote_development_config.h)
-
 ModuleImportAll("thirdparty")
 LibImport("dmremote_development_module" "src/dmremote_development_module")
 ExeImport("test" "dmremote_development_module")
